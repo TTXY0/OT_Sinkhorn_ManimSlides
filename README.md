@@ -9,13 +9,15 @@ This repository presents an animated slide deck that visually explains the Discr
 4. Heatmap visualizations of transport plans
 5. Applications in machine learning (e.g., Sinkhorn distance)
 
+Please see our [Project Proposal](project_proposal.pdf)
+
 ![Slide Preview](slides.gif)
 
 ![Sinkhorn Iterations](sinkhorn.gif)
 
 ---
 
-## ▶Usage
+## Usage
 
 Render the slides locally:
 

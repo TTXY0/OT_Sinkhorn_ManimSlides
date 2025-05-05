@@ -1,6 +1,5 @@
 # Optimal Transport & Sinkhorn Algorithm (Animated Slides)
 
-![Slide Preview](slides.gif)
 
 This repository presents an animated slide deck that visually explains the Discrete Optimal Transport problem and the Sinkhorn algorithm.  Built with [Manim](https://www.manim.community/) and [manim-slides](https://github.com/jeertmans/manim-slides), it walks through:
 
@@ -9,6 +8,10 @@ This repository presents an animated slide deck that visually explains the Discr
 3. Entropy regularization and the Sinkhorn algorithm
 4. Heatmap visualizations of transport plans
 5. Applications in machine learning (e.g., Sinkhorn distance)
+
+![Slide Preview](slides.gif)
+
+![Sinkhorn Iterations](sinkhorn.gif)
 
 ---
 

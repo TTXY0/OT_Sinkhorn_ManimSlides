@@ -43,10 +43,4 @@ The resulting video or live slideshow will demonstrate each step of the algorith
 * `numpy`
 * Python standard libs: `itertools`, `random`, `pickle`
 
----
-
-## References
-
-* Cuturi, M. (2013). *Sinkhorn Distances: Lightspeed Computation of Optimal Transport.*
-* Peyré, G. & Cuturi, M. (2019). *Computational Optimal Transport.*
 

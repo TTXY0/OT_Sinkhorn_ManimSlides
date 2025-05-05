@@ -19,7 +19,7 @@ Please see our [Project Proposal](project_proposal.pdf)
 
 ## Usage
 
-Render the slides locally:
+Render the slides as a continuous video:
 
 ```bash
 manim render optimal_transport_slides

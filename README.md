@@ -1,6 +1,6 @@
 # Optimal Transport & Sinkhorn Algorithm (Animated Slides)
 
-
+This was a course project for Mathematics for Machine Learning (M 395T), taught by Prof. Richard Tsai.
 This repository presents an animated slide deck that visually explains the Discrete Optimal Transport problem and the Sinkhorn algorithm.  Built with [Manim](https://www.manim.community/) and [manim-slides](https://github.com/jeertmans/manim-slides), it walks through:
 
 1. Formulation of the discrete Optimal Transport problem

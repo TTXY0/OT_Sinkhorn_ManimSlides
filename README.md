@@ -15,54 +15,22 @@ This repository presents an animated slide deck that visually explains the Discr
 
 ---
 
-## Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/TTXY0/BeerLawPhotonModel.git
-   cd BeerLawPhotonModel
-   ```
-2. Install required Python packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
-## ▶️ Usage
+## ▶Usage
 
 Render the slides locally:
 
 ```bash
-# Quick (low quality) render:
-manim -pql main.py DiscreteOTIntro
+manim render optimal_transport_slides
 
-# High-quality render:
-manim -pqh main.py DiscreteOTIntro
 ```
 
 Alternatively, run with manim-slides to navigate slides interactively:
 
 ```bash
-manim-slides main.py DiscreteOTIntro
+manim-slides render optimal_transport_slides
 ```
 
 The resulting video or live slideshow will demonstrate each step of the algorithm with animations.
-
----
-
-## 📁 Repository Structure
-
-```
-BeerLawPhotonModel/
-├── main.py                  # Manim script defining DiscreteOTIntro slide deck
-├── assets/
-│   └── preview.gif          # Animated GIF preview used in README
-├── requirements.txt         # Exact Python dependencies
-└── README.md                # This file
-```
 
 ---
 
@@ -72,8 +40,6 @@ BeerLawPhotonModel/
 * `manim-slides`
 * `numpy`
 * Python standard libs: `itertools`, `random`, `pickle`
-
-All versions are pinned in `requirements.txt`.
 
 ---
 
